@@ -3,7 +3,7 @@
 
 package firstproj;
 import java.util.Arrays;
-public class Main_ {
+public class Main {
 	
 	public static void main(String[] args) {
 
@@ -84,4 +84,5 @@ static double[][] idw(double[][] data) {
     return data;
 }
 	}
+
 
